@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="analog_hour_hand_stroke">4dp</dimen>
+    <dimen name="analog_minute_hand_stroke">4dp</dimen>
+    <dimen name="analog_second_hand_stroke">1dp</dimen>
+
+    <dimen name="analog_hour_ambient_hand_stroke">2dp</dimen>
+    <dimen name="analog_minute_ambient_hand_stroke">2dp</dimen>
+</resources>

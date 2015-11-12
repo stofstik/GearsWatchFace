@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="analog_background">#000000</color>
+    <color name="analog_hour_hand">#ffffff</color>
+    <color name="analog_minute_hand">#ffffff</color>
+    <color name="analog_second_hand">#ff0000</color>
+    <color name="analog_hour_markers">#cccccc</color>
+
+    <color name="analog_ambient_hour_hand">#cccccc</color>
+    <color name="analog_ambient_minute_hand">#cccccc</color>
+    <color name="analog_ambient_hour_markers">#666666</color>
+</resources>
